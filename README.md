@@ -1,8 +1,8 @@
 # 🚀 Lingo Game console project in java
 
 This project is open source, that i tried to implement, you can modified, contribute and share the content.
-This game project allows user to choose the number of letters in word that he wants to try the correct writing.
-For each attempt, the program shows you what are letters that are not in the correct place.
+This game project allows user to choose the number of word letters that he wants to try the correct writing.
+For each attempt, the program shows you what letters are not in the correct place.
 
 ## 🎯 For using
 - Compile and run project file src/main/java/fr.uge.lingoProject/Main
